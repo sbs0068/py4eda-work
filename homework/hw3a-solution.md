@@ -52,9 +52,9 @@ origin  https://github.com/sbs0068/py4eda-work.git (push)
 - The output of `git log --oneline`:ab6eaa3 (HEAD -> main, origin/main) Add hw3a solution document
 f79accf Initial commit: Add README and .gitignore
 
-##Question 1
+## Question 1
 
-###Reflections
+### Reflections
 
 #### a.) 
 Before implementing git I typically performed version control by 
@@ -68,9 +68,9 @@ Git's commit history would have been valuable when working on Stochastic OR case
 These case studies were often very long and required multiple iterations to get right. Git would have made testing much easier because it would provide a log of what I had tried as well as 
 allowing easy access to revert changes.  
 
-##Question 2
+## Question 2
 
-###Reflections 
+### Reflections 
 
 ##### a.)
 Keeping the repositories seperate is importatn because the very reason we are
@@ -84,11 +84,11 @@ and within those folders have generic subfolders for projects, assignments, and
 references. Group projects would probably be stored in their own repositiores 
 and I would clone it into my records when completed.
 
-##Question 3
+## Question 3
 
-###Reflections
+### Reflections
 
-####a. 
+#### a. 
 Output:
 $ git log --oneline
 689baa5 (HEAD -> main, origin/main) Complete Part 3 documentation
@@ -100,7 +100,7 @@ of the code. So if needed I would know where to revert to. If I needed to
 view what my original document looked like or if something goes wrong in the
 future I would be able to restore this without starting from scratch. 
 
-####b.)
+#### b.)
 
 A good unit of work to commit is anytime any meaningful progress is saved. 
 Even if it is just a few lines or a single funciton written it is important 
